@@ -13,7 +13,7 @@
 ---
 
 ## 🛠 Tech Stack  
-**Languages:** Python, C, SQL, HTML, CSS, JavaScript  
+**Languages:** Python, C, SQL, HTML, CSS, JavaScript ,Java
 **Frameworks/Libraries:** Django, Node.js, Express.js, NumPy, Pandas  
 **Databases:** MongoDB, SQLite  
 **Tools/Platforms:** Git & GitHub, Linux/Unix, Jira  
